@@ -1,2 +1,2 @@
 # hello-world
-Greetings all!
+Greetings all
